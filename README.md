@@ -10,7 +10,7 @@ Whether I'm building <i>scalable APIs</i> for millions of users or engineering c
 - 🔭 I’m currently leading backend development at **IARC Fintech**
 - ⚙️ Built systems handling **15–20K requests/min**, **500K+ daily events**, and millions of records
 - 🧪 Currently exploring **Spring Boot**, **Vertex AI**, and **Hume AI**
-- 📄 [Portfolio Website](its-ravi-ranjan.github.io)
+- 📄 [Portfolio Website](https://its-ravi-ranjan.github.io/)
 
 ---
 
