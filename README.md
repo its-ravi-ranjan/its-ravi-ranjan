@@ -68,5 +68,5 @@ Whether I'm building <i>scalable APIs</i> for millions of users or engineering c
 
 ---
 
-⭐️ From [Ravi Ranjan](https://github.com/raviranjan-dev) — *Build with impact. Scale with intent.*
+⭐️ From [Ravi Ranjan](https://github.com/its-ravi-ranjan) — *Build with impact. Scale with intent.*
 
