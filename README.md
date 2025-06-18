@@ -62,8 +62,8 @@ Whether I'm building <i>scalable APIs</i> for millions of users or engineering c
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviranjan-dev&show_icons=true&theme=radical" alt="Ravi's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviranjan-dev&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=its-ravi-ranjan&show_icons=true&theme=radical" alt="Ravi's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ravi-ranjan&layout=compact&theme=radical" height="200"/>
 </p>
 
 ---
