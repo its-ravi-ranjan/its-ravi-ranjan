@@ -1,4 +1,4 @@
-# Hi 👋🏾, I'm Ravi, a Backend-heavy Full Stack Developer
+# Hi 👋🏾, I'm Ravi Ranjan, a Backend-heavy Full Stack Developer
 
 I'm a passionate <i><b>full stack developer</b></i> with a strong emphasis on <i><b>backend architecture and distributed systems</b></i>.  
 I specialize in <b>Node.js</b>, <b>Kafka</b>, <b>microservices</b>, and <b>AWS/GCP cloud infrastructure</b>.
